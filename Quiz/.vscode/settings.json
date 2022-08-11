@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Korisnik\\Desktop\\KRIPTOGRAFIJA_2022\\bcprov-debug-jdk14-1.70.jar",
+        "c:\\Users\\Korisnik\\Desktop\\KRIPTOGRAFIJA_2022\\bcprov-jdk14-1.46.jar",
+        "c:\\Users\\Korisnik\\Desktop\\KRIPTOGRAFIJA_2022\\bcmail-jdk14-1.46.jar",
+        "c:\\Users\\Korisnik\\Desktop\\KRIPTOGRAFIJA_2022\\bcpkix-jdk14-1.48.jar"
+    ]
+}
